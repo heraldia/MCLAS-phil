@@ -1,0 +1,17 @@
+name: mclas_env
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - jupyter
+  - ipython
+  - pip
+  - matplotlib
+  - torchvision
+  - pip:
+    - transformers
+    - pytorch-transformers
+    - pyrouge
+    - tensorboardX

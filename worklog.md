@@ -3,7 +3,7 @@
 
 # suggestion
 1. Directly send me testConfig.ipynb, as I can not log in using his google username and credential.
-2. Do we have a conda env.yaml or requirement.txt script?
+2. Do we have a conda env.yaml or requirement.txt script? I did upload one in env/.
 
 # worklog
 ```
